@@ -13,7 +13,6 @@ header="\documentclass[a4paper,12pt]{book}
 
 \\\begin{document}
 
-\\\author{Eelco Empting}
 \\\title{Duolingo Russian grammar}
 \\date{January 2017}
 
